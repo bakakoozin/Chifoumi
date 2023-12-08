@@ -1,5 +1,5 @@
-## Création d'un chifoumi en Nodejs
+## Création d'un chifoumi en Java Script et CSS
 
 '''
-Création du REPO
+Fait à partir d'un tuoriel.
 '''
